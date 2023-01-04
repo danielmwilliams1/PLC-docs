@@ -1,0 +1,11 @@
+Testing2 B|
+
+int First_1;
+int Second_1;
+int product;
+ident_1 -> 34;
+ident_2 -> 100;
+
+product -> First_1 * Second_1;
+
+|E

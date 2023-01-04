@@ -1,0 +1,9 @@
+multiplication B|
+
+main {
+	int x;
+	x = 10;
+	String abc;
+	abc = abc + x;
+}
+|E

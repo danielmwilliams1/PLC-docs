@@ -1,0 +1,6 @@
+b int a;
+a <- 4;
+int 23 = 25;
+int 23++; 
+int sum;
+int a + 23; 
